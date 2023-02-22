@@ -155,9 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Olayinka Eyebiokin - [Github](https://github.com/Okinbird) / [Twitter](https://twitter.com/OkinBird)
-
 Esrom Abrha - [Github](https://github.com/Esito1996) / [Twitter]()
-
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
